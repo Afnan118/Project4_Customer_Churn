@@ -104,16 +104,23 @@ These findings identify customer groups that deserve closer attention. They show
 
 Six visualizations were created using Matplotlib and Seaborn.
 
-| Visualization | File |
-|---|---|
-| Customer Churn Distribution | `01_customer_churn_distribution.png` |
-| Churn Rate by Contract Type | `02_churn_by_contract.png` |
-| Average Monthly Charges | `03_average_monthly_charges.png` |
-| Average Customer Tenure | `04_average_customer_tenure.png` |
-| Contract and Internet Service Heatmap | `05_churn_contract_internet_heatmap.png` |
-| Churn Rate by Tenure Group | `06_churn_by_tenure_group.png` |
+### 1. Customer Churn Distribution
+![Customer Churn Distribution](Visualizations/01_customer_churn_distribution.png)
 
-All charts are available in the `Visualizations` folder.
+### 2. Churn Rate by Contract Type
+![Churn Rate by Contract Type](Visualizations/02_churn_by_contract.png)
+
+### 3. Average Monthly Charges
+![Average Monthly Charges](Visualizations/03_average_monthly_charges.png)
+
+### 4. Average Customer Tenure
+![Average Customer Tenure](Visualizations/04_average_customer_tenure.png)
+
+### 5. Contract and Internet Service Heatmap
+![Contract and Internet Service Heatmap](Visualizations/05_churn_contract_internet_heatmap.png)
+
+### 6. Churn Rate by Tenure Group
+![Churn Rate by Tenure Group](Visualizations/06_churn_by_tenure_group.png)
 
 ## Project Structure
 
